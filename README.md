@@ -81,9 +81,28 @@ Real-world implementation would require suitable industrial-grade sensors, certi
 - Arduino IDE
 - C/C++ (Arduino programming)
 
+- 
+## Project Gallery
+
+### 1. Prototype Overview
+
+![Prototype Overview](images/prototype%20overview.jpeg)
+
+### 2. Hardware Connections
+
+![Hardware Connections](images/hardware%20connections.jpeg)
+
+### 3. Working Workflow
+
+![Working Workflow](images/work%20flow.jpeg)
+
+
 ## Project Team
 
-Developed by a team of three engineering students.
+Developed by a team of three 
+1.G.RITHIKA
+2.K.PRIYADHARSHINI
+3.A.ISWARIALAKSHMI
 
 ---
 
